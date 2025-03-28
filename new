@@ -1,0 +1,32 @@
+2nd Semester B. Tech
+DSE 1271 Data Visualization [1 0 3 2]
+Week 10 & 11 Assignment:​​​​​​​​Marks(10)
+ 
+Task: For the dataset given (SET 1), answer the questions with a report that contains a story, visuals, and data summaries to provide actionable insights into the data.
+SET 1: Dataset: NORTHWIND.XLS​​​​​​​​
+The Northwind has the sales data of the fictional enterprise "Northwind Traders," engaged in the global import and export of specialty foods. The excel based dataset ‘Northwind.xls contains the entities (in excel based sheets) below:
+• Products: Product information
+• Categories: Product Categories
+• Customers: Customers who buy products from Northwind
+• Employees: Employee details of Northwind traders
+• Orders and Order_Details: Sales Order transactions taking place between the customers & the company
+Question:
+1. Perform data exploration of Products, product categories, Customers, and Orders and describe the dataset.​​​​​​​​(2 M)
+2. Perform the required data integration (from different sheets), cleaning for missing or inconsistent data.​​​​​​​​(2 M)
+3. Use Python and libraries like Pandas, Matplotlib and Seaborn to create insightful tabulations and visualization for the following:​​​​
+(4 M for analysis and 2 M for report and notebook submission)​​(6 M)
+1. Sales Performance
+Example insights: Identify top-selling products and their categories. Which products contribute most to revenue? Are there seasonal sales trends?
+2. Customer wise sales
+Example insights: Analyze customer orders by region and frequency. Identify and visualize high-value customers and regions.
+3. Employee wise sales
+Example insights. Who are the employees with the highest sales or lowest sales? Which employees contribute to the revenue the most?
+Submission on LMS
+• Python notebook to showcase the process of exploring, cleaning, and analysis of the dataset. From the data summaries, charts/plots and analysis of the dataset, gather the insights and write as markdown (in text) in the notebook.
+• A report (in pdf) containing a narrative considering the audience is the Sales manager. You are presenting the findings and insights from the data analysis of the Northwind dataset.
+• The report should contain sections on
+1. Objective of the analysis
+2. Data Exploration
+3. Data Cleaning
+4. Analysis and Insights
+5. Conclusion
